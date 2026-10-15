@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.vs/
+.vscode/
+*.user
+*.suo
+PassScheduleApp/appsettings.json
+PassScheduleApp/appsettings.Development.json
+PassScheduleApp/appsettings.*.json
+!PassScheduleApp/appsettings.example.json
